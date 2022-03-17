@@ -5,6 +5,16 @@
 
 /* Styles for the body */
 
+.funku-text {
+color: #FF2B2E;
+
+text-align: center;
+
+font-style: italic;
+
+text-decoration: underline #ffcc00;
+	
+}
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
