@@ -16,7 +16,7 @@ text-decoration: underline #ffcc00;
 	
 }
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #1E0320;
 	background-color: #f8f8fc;
 }
@@ -58,4 +58,7 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.text{
+	text-shadow: 5px 5px 5px grey;
 }
