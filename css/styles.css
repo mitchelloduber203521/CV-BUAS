@@ -6,29 +6,29 @@
 /* Styles for the body */
 
 .funku-text {
-color: #FF2B2E;
+color: #F9F9F9;
 
 text-align: center;
 
-font-style: italic;
+font-style: sans-erif;
 
 text-decoration: underline #ffcc00;
 	
 }
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #1E0320;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F46036;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #FFFFFF;
 }
 
 .resume-aside {
